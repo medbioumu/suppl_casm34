@@ -1,1 +1,1 @@
-# suppl_p34p shapemap
+# suppl_CASM34: SHAPE_MaP & RNA-Seq
